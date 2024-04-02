@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-export default function ProductCard({category, img, title, price, setAmount, prodid, setCart, cart}){
+export default function ProductCard({productInfo, setAmount, setCart, cart}){
  const [product, setProduct] = useState({
   title: title,
   price: price,
