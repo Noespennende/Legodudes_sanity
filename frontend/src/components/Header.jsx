@@ -1,5 +1,7 @@
 import { useState } from "react";
 import Cart from "./Cart";
+import { Link } from "react-router-dom";
+
 export default function Header({amount, cart, setCart}){
     const [toggle, setToggle] = useState(false)
 
