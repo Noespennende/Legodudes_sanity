@@ -28,5 +28,3 @@ export async function fetchCategoryBySlug(slug) {
     }`, {slug})
     return data
 }
-
-//*[_type == "products" && category._ref == _id]
