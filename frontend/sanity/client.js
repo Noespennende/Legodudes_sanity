@@ -13,6 +13,6 @@ export const writeClient = createClient({
     dataset: "production",
     useCdn: false,
     apiVersion: "2022-03-07",
-    token: "sknU6vIvQkUQplxvIW4vTxWqbxhWPE6ukOTEVJrZZITrGS3kZyqHgjLN48hdKUaJYSJEBKawEk8QGI1gxN86pVuwul3JqVXZ7QmTXdvj2ykoc285GNz6OX21X78VwxmMMPdLTNFcYpnOBXA3qT5z9tMHKPhw6TUkW4YjgDPgiUMol8353i7f"
+    token: "skNgNKgaiAQF4y35C9mrDEPuQ8NHxirFX6gxubRbtEE00rK8zWOPatylyzVY0UEfUpfD5WAX4Pjl3iN24PwZyyh5ag6LuFZ4YjXqPeyCNphf7MUQhu4gGliUVnL1tdzf0ul6VdSjacYEqATlvsZdlpcZXjAXCdOGieKicXAMSKcrl1UlHQRk"
 
 })
